@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+p {
+  color: black;
+}
+
+div {
+  background-color: cornflowerblue;
+  widows: 10em;
+  text-align: center;
+  font-family: "Song Myung", serif;
+  font: size 20px;
+}
